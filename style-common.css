@@ -12,7 +12,6 @@ ul li #menu {
     display: flex;
 }
 img#logo{
-    background: url(koko/centur.jpg);
     background: url(koko/vesti.jpg);
     width:400px;
     height: 250px;
