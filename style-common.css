@@ -39,6 +39,8 @@ div.see{
     width: 100%;
     height:400px;
     text-align: center;
+    background-size: contain;
+    background-repeat: repeat-y
 }
 div.team img{ 
     height:260px;
@@ -53,6 +55,8 @@ div.team{
     width: 50%;
     height: 360px;
     text-align: center
+    background-size: contain;
+    background-repeat: repeat-y
 }
 li {
     text-decoration: none;
@@ -80,4 +84,6 @@ div.good{
     width: 33%;
     height:300px;
     text-align: center;
+    background-size: contain;
+    background-repeat: repeat-y
 }
