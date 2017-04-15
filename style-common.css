@@ -16,8 +16,6 @@ img#logo{
     width: 334px;
     height: 250px;
     margin-left: 35%;
-    background-size: contain;
-    background-repeat: repeat-y;
 }
 embed#menu-embed{
     width: 100%;
@@ -39,8 +37,6 @@ div.see{
     width: 100%;
     height:400px;
     text-align: center;
-    background-size: contain;
-    background-repeat: repeat-y
 }
 div.team img{ 
     height:260px;
@@ -57,8 +53,6 @@ div.team{
     width: 50%;
     height: 360px;
     text-align: center
-    background-size: contain;
-    background-repeat: repeat-y
 }
 li {
     text-decoration: none;
