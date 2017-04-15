@@ -15,7 +15,12 @@ div.job{
  	width: 960px;
     margin: 0 auto;
     background-color: #5c7997;
-    padding: 30px;
     background: url(koko/къща.jpg) center center fixed;
 }
-
+div.job img{ 
+    height:260px;
+    width: 285px;
+    border-radius:60px;
+    margin:1px;
+    border:1px solid black;
+}
