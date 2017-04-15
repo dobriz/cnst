@@ -46,13 +46,11 @@ div.team img{
 div.team{
     padding: 0px;
     margin: 0px;
-    float:right;
-    color:blue;
+    float: left;
+    color: blue;
     width: 50%;
-    height:300px;
-    text-align: center;   
-    border-radius: 60px;
-    margin: 1px;
+    height: 360px;
+    text-align: center
 }
 li {
     text-decoration: none;
@@ -67,12 +65,12 @@ li {
     display: flex;
     justify-content: center;
 }
-div.team img{ 
+div.good img{ 
     height:260px;
     width: 285px;
     border:1px solid black;
 }
-div.team{
+div.good{
     padding: 0px;
     margin: 0px;
     float:right;
