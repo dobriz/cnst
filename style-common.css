@@ -12,7 +12,7 @@ ul li #menu {
     display: flex;
 }
 img#logo{
-    background: url(koko/лого.jpg);
+    background: url(koko/logo.jpg);
     width: 334px;
     height: 250px;
     margin-left: 35%;
@@ -45,6 +45,8 @@ div.see{
 div.team img{ 
     height:260px;
     width: 285px;
+    border-radius:60px;
+    margin:1px;
     border:1px solid black;
 }
 div.team{
