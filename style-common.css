@@ -48,9 +48,11 @@ div.team{
     margin: 0px;
     float:right;
     color:blue;
-    width: 33%;
+    width: 50%;
     height:300px;
-    text-align: center;
+    text-align: center;   
+    border-radius: 60px;
+    margin: 1px;
 }
 li {
     text-decoration: none;
@@ -65,4 +67,17 @@ li {
     display: flex;
     justify-content: center;
 }
-
+div.team img{ 
+    height:260px;
+    width: 285px;
+    border:1px solid black;
+}
+div.team{
+    padding: 0px;
+    margin: 0px;
+    float:right;
+    color:blue;
+    width: 33%;
+    height:300px;
+    text-align: center;
+}
