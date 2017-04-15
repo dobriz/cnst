@@ -13,9 +13,11 @@ ul li #menu {
 }
 img#logo{
     background: url(koko/лого.jpg);
-    width:400px;
+    width: 334px;
     height: 250px;
-    margin-left: 28%;
+    margin-left: 35%;
+    background-size: contain;
+    background-repeat: repeat-y;
 }
 embed#menu-embed{
     width: 100%;

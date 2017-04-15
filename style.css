@@ -16,6 +16,8 @@ div.job{
     margin: 0 auto;
     background-color: #5c7997;
     background: url(koko/къща.jpg) center center fixed;
+    background-size: contain;
+    background-repeat: repeat-y
 }
 div.job img{ 
     height:260px;
