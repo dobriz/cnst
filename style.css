@@ -5,15 +5,17 @@ body {
 	background-size: contain;
 }
 
-h1,h3,h2,p{
+h1,h3,h2{
      text-align:center;
      color:black;
      padding:136;
 }
 div.job{
-	height: 2845px;
+	height: 5223px;
  	width: 960px;
     margin: 0 auto;
-    background: url(koko/centur.jpg) center center fixed;
+    background-color: #5c7997;
+    padding: 30px;
+    background: url(koko/dixit.jpg) center center fixed;
 }
 

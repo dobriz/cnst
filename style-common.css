@@ -1,6 +1,6 @@
 body{
-	font-family:Calibri;
-	color:white;
+    font-family:Calibri;
+    color:white;
     background-color: rgb(blue);
 }
 ul li #menu {
@@ -15,7 +15,7 @@ img#logo{
     background: url(koko/лого.jpg);
     width:400px;
     height: 250px;
-    margin-left: 30%;
+    margin-left: 28%;
 }
 embed#menu-embed{
     width: 100%;
@@ -41,8 +41,6 @@ div.see{
 div.team img{ 
     height:260px;
     width: 285px;
-    border-radius:60px;
-    margin:1px;
     border:1px solid black;
 }
 div.team{
@@ -50,8 +48,8 @@ div.team{
     margin: 0px;
     float:right;
     color:blue;
-    width: 50%;
-    height:517px;
+    width: 33%;
+    height:300px;
     text-align: center;
 }
 li {
@@ -67,3 +65,4 @@ li {
     display: flex;
     justify-content: center;
 }
+
