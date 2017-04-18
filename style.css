@@ -13,8 +13,8 @@ div.job{
     background-size: contain;
     background-repeat: repeat-y
 }
-img#job{ 
-    height:400px;
-    width: 400px;
+img.job{ 
+    height:auto;
+    width: auto;
     border-radius:60px;
 }
