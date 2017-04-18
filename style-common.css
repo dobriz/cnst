@@ -13,9 +13,9 @@ ul li #menu {
 }
 img#logo{
     background: url(koko/лого.jpg);
-    width: 250px;
+    width: 200px;
     height: 140px;
-    margin-left: 37%;
+    margin-left: 40%;
 }
 embed#menu-embed{
     width: 100%;
