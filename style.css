@@ -1,5 +1,4 @@
-﻿
-div.job{
+﻿div.job{
 	height: 3985px;
  	width: 960px;
     margin: 0 auto;
@@ -13,7 +12,7 @@ img.job{
     width: auto;
     border-radius:60px;
 }
-div#tabs,h1,h3,h2{
+div#tabs,h1,h3,h2,p{
     background-color: rgba(220, 245, 220, 0.61);
     text-align:center;
      color:black;
